@@ -21,7 +21,8 @@ data = {
 
 df = pd.DataFrame(data)
 
-# Print the DataFrame
+#According to the data i am using the bar plots 
+# printing the DataFrame
 print("Original DataFrame:")
 print(df)
 
